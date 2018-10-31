@@ -1,1 +1,5 @@
 
+
+
+# def mean(myList):
+  pass
